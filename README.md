@@ -8,10 +8,10 @@
 
 ![Logo do git](https://www.imagensanimadas.com/data/media/1528/boneco-de-palito-imagem-animada-0038.gif)
 <a href="[https://twitter.com/TodosQa]" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/TodosQa?logo=twitter&style=for-the-badge&color=fcb103&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/TodosQa?logo=twitter&style=for-the-badge&color=2432d1&labelColor=0a0a0a"
 /></a><a href="https://www.github.com/alanbazilik" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/alanbazilik?logo=github&style=for-the-badge&color=f4cccc&labelColor=1c1917" /></a><a href="https://www.twitch.tv/alangb12" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/alangb12?logo=twitchsx&style=for-the-badge&color=f4cccc&labelColor=1c1917&label=TWITCH+STATUS" /></a></div>
+src="https://img.shields.io/github/followers/alanbazilik?logo=github&style=for-the-badge&color=2432d1&labelColor=1c1917" /></a><a href="https://www.twitch.tv/alangb12" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/alangb12?logo=twitchsx&style=for-the-badge&color=2432d1&labelColor=1c1917&label=TWITCH+STATUS" /></a></div>
 
 
 <p align="center">
