@@ -28,7 +28,7 @@ src="https://img.shields.io/twitch/status/alangb12?logo=twitchsx&style=for-the-b
 
 ## ⭐️ Sobre mim
 <div align='center'>
-  <b> "NÃO SE CONTRATA NINGÚEM PARA FAZER ABDOMINAIS POR VOCÊ" - Leandro Karnal</b>
+  <b> Pensamos demasiadamente e sentimos muito pouco. Necessitamos mais de humildade que de máquinas. Mais de bondade e ternura que de inteligência. Sem isso, a vida se tornará violenta e tudo se perderá. Charles Chaplin</b>
 </div><br>
 Sou formada em Redes de Computadores pela Sumaré (2015) e atualmente atuo como  QA/ Analista de Tester Jr. na TODOS EMPREENDIMENTOS. Na área de programação meu foco está sendo em JAVA e atualmente trabalho com automação em JAVA (Postman e Insomnia). Também gosto de trabalhar com desenvolvimento mobile no Android Studio na linguagem Ultima School. Também possuo afinidade com TEF e POS. </b>.
 <br><br>
