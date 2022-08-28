@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fcb103&height=180&section=header&text=GABRIEL+SILVA&fontSize=50&fontColor=00000&animation=twinkling&fontAlignY=40"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ed9609&height=180&section=header&text=GABRIEL+SILVA&fontSize=50&fontColor=00000&animation=twinkling&fontAlignY=40"/> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=JOVEM+APRENDIZ;PROCURANDO+EMPREGO)](https://git.io/typing-svg)
 
@@ -8,10 +8,10 @@
 
 ![Logo do git](https://www.imagensanimadas.com/data/media/1528/boneco-de-palito-imagem-animada-0038.gif)
 <a href="[https://twitter.com/TodosQa]" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/TodosQa?logo=twitter&style=for-the-badge&color=2432d1&labelColor=0a0a0a"
+src="https://img.shields.io/twitter/follow/TodosQa?logo=twitter&style=for-the-badge&color=ed9609&labelColor=0a0a0a"
 /></a><a href="https://www.github.com/alanbazilik" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/alanbazilik?logo=github&style=for-the-badge&color=2432d1&labelColor=1c1917" /></a><a href="https://www.twitch.tv/alangb12" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/alangb12?logo=twitchsx&style=for-the-badge&color=2432d1&labelColor=1c1917&label=TWITCH+STATUS" /></a></div>
+src="https://img.shields.io/github/followers/alanbazilik?logo=github&style=for-the-badge&color=ed9609&labelColor=1c1917" /></a><a href="https://www.twitch.tv/alangb12" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/alangb12?logo=twitchsx&style=for-the-badge&color=ed9609&labelColor=1c1917&label=TWITCH+STATUS" /></a></div>
 
 
 <p align="center">
@@ -116,13 +116,13 @@ ___
 
   <summary><b><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> My GitHub Stats 
 
-<a href="https://github.com/AnaTODOS"><img src="https://github-readme-stats.vercel.app/api?username=AnaTODOS&show_icons=true&hide=&count_private=true&title_color=f4cccc&text_color=ffffff&icon_color=f4cccc&bg_color=1c1917&hide_border=true&show_icons=true" alt="AnaTODOS's GitHub stats" /></a>
+<a href="https://github.com/AnaTODOS"><img src="https://github-readme-stats.vercel.app/api?username=AnaTODOS&show_icons=true&hide=&count_private=true&title_color=ed9609&text_color=ed9609&icon_color=ed9609&bg_color=ed9609_border=true&show_icons=true" alt="AnaTODOS's GitHub stats" /></a>
 
-<a href="https://github.com/AnaTODOS"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AnaTODOS&stroke=ffffff&background=1c1917&ring=f4cccc&fire=f4cccc&currStreakNum=pink&currStreakLabel=f4cccc&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/AnaTODOS"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AnaTODOS&stroke=ed9609&background=1c1917&ring=f4cccc&fire=f4cccc&currStreakNum=pink&currStreakLabel=f4cccc&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/AnaTODOS"><img src="https://activity-graph.herokuapp.com/graph?username=AnaTODOS&bg_color=1c1917&color=ffffff&line=f4cccc&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/AnaTODOS"><img src="https://activity-graph.herokuapp.com/graph?username=AnaTODOS&bg_color=0a0a09&color=ed9609&line=f4cccc&point=ffffff&area_color=0a0a09&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/AnaTODOS" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaTODOS&langs_count=10&title_color=f4cccc&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/AnaTODOS" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaTODOS&langs_count=10&title_color=ed9609&text_color=ed9609&icon_color=ed9609&bg_color=0a0a09&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
@@ -130,7 +130,7 @@ ___
  
 ____
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f4cccc&height=120&section=footer"/>****
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ed9609&height=120&section=footer"/>****
 
 ## Watch my contribution graph eaten by the snake🐍
 ![snake gif](https://github.com/AnaTODOS/narayanbavisetti/blob/output/github-contribution-grid-snake.gif)
