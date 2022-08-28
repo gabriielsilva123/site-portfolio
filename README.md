@@ -116,11 +116,11 @@ ___
 
   <summary><b><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> My GitHub Stats 
 
-<a href="https://github.com/AnaTODOS"><img src="https://github-readme-stats.vercel.app/api?username=AnaTODOS&show_icons=true&hide=&count_private=true&title_color=ed9609&text_color=ed9609&icon_color=ed9609&bg_color=ed9609_border=true&show_icons=true" alt="AnaTODOS's GitHub stats" /></a>
+<a href="https://github.com/AnaTODOS"><img src="https://github-readme-stats.vercel.app/api?username=AnaTODOS&show_icons=true&hide=&count_private=true&title_color=ed9609&text_color=ffffff&icon_color=ed9609&bg_color=1c1917&_border=true&show_icons=true" alt="AnaTODOS's GitHub stats" /></a>
 
-<a href="https://github.com/AnaTODOS"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AnaTODOS&stroke=ed9609&background=1c1917&ring=f4cccc&fire=f4cccc&currStreakNum=pink&currStreakLabel=f4cccc&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/AnaTODOS"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AnaTODOS&stroke=ed9609&background=1c1917&ring=ed9609&fire=ed9609&currStreakNum=orange&currStreakLabel=ed9609&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/AnaTODOS"><img src="https://activity-graph.herokuapp.com/graph?username=AnaTODOS&bg_color=0a0a09&color=ed9609&line=f4cccc&point=ffffff&area_color=0a0a09&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/AnaTODOS"><img src="https://activity-graph.herokuapp.com/graph?username=AnaTODOS&bg_color=0a0a09&color=ed9609&line=ed9609&point=ffffff&area_color=0a0a09&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/AnaTODOS" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaTODOS&langs_count=10&title_color=ed9609&text_color=ed9609&icon_color=ed9609&bg_color=0a0a09&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
